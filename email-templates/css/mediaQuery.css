@@ -1,0 +1,98 @@
+
+@media only screen and (max-width: 480px) {
+
+
+  .width-320{
+    width:320px!important;
+  }
+
+
+  .mobileResize262px{
+    width:262px!important;
+  }
+
+  #logoContainer{
+    padding:0 0 20px 29px!important;
+  }
+
+
+  #mainHeroContainer{
+    width:100%!important;
+  }
+
+  #headlineContainer{
+  width:100%!important;
+  }
+
+  #table-preheader{
+  display:none!important;
+  }
+
+
+  #heroShoutOutContainer{
+    margin:0px 0 20px 0px!important;
+  }
+
+
+
+  #topNavContainer{
+    padding:0 0 0 29px!important;
+    display:none!important;
+  }
+
+
+  #hidePreheaderContainer{
+    display:none!important;
+  }
+
+
+
+  #watermark {
+    background-image: none!important;
+  }
+
+
+  #hr_img {
+    width: 320px!important;
+  }
+
+  #heroShoutOutContainer{
+    margin:0px 0 20px 0px!important;
+  }
+
+  
+
+
+  .heroImage{
+  	width: 100%!important;
+  	float: left!important;
+  }
+
+
+  img[class="moduleImageMobileResize"] {
+      margin:0 0 0 0!important;
+      width: 100%!important;
+  }
+
+
+  .oneModuleImagePadding{
+    padding:0 0 13px 0!important;
+  }
+
+  .module_img_cont_hor_pad{
+    padding-right:0!important;
+  }
+
+
+  #singleImageModulePaddingResize{
+    padding:0 0 13px 0!important;
+  }
+
+ 
+
+  .module_img_add13_top_resize{
+    padding-top:13px!important;
+  }
+
+
+}
